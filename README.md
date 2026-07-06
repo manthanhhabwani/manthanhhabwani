@@ -89,7 +89,6 @@ A responsive portfolio website showcasing my projects, skills, and journey as a 
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=manthanhhabwani&layout=compact&theme=github_dark&hide_border=true" />
 -->
----
 
 ## 🔥 GitHub Streak
 
