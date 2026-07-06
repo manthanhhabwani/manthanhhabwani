@@ -1,6 +1,6 @@
-## Hi there 👋
+<!--## Hi there 👋
 
-<!--
+
 **manthanhhabwani/manthanhhabwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,3 +13,36 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
+# Hi 👋, I'm Manthan Habwani
+
+Aspiring Software Engineer | MCA Student
+
+---
+
+🌱 Currently Learning
+
+- JavaScript
+- Data Structures & Algorithms
+- React
+
+---
+
+## 🛠️ Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,vscode)](https://skillicons.dev)
+
+---
+
+## 📈 GitHub Stats
+
+...
+
+---
+
+## 📫 Connect with me
+
+LinkedIn
+
+Portfolio
+
+Email
