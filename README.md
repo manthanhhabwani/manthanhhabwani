@@ -39,7 +39,7 @@ Currently focused on becoming a Full-Stack Software Engineer.
 <p align="center">
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,python&perline=6" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,python&perline=7" />
 </a>
 
 </p>
