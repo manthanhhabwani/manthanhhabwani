@@ -73,13 +73,13 @@ A responsive portfolio website showcasing my projects, skills, and journey as a 
 
 ## 🎯 2026 Goals
 
-- ✅ Build 5+ quality projects
-- ✅ Master JavaScript
-- ✅ Learn React
-- ✅ Learn Node.js
-- ✅ Strengthen DSA
-- ✅ Contribute consistently on GitHub
-- ✅ Crack Software Engineering Internship
+-  Build 5+ quality projects
+-  Master JavaScript
+-  Learn React
+-  Learn Node.js
+-  Strengthen DSA
+-  Contribute consistently on GitHub
+-  Crack Software Engineering Internship
 
 ---
 
