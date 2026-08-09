@@ -57,9 +57,9 @@ Currently focused on becoming a Full-Stack Software Engineer.
 
 ## 🚧 Current Project
 
-### 🌐 Personal Portfolio Website
+### 📝 InstaScribble
 
-A responsive portfolio website showcasing my projects, skills, and journey as a developer.
+A JavaScript-based notes application I'm building to strengthen my understanding of DOM manipulation, events, CRUD operations, local storage, and frontend development.
 
 **Tech Used**
 
