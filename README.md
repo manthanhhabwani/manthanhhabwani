@@ -37,7 +37,7 @@ Currently focused on becoming a Full-Stack Software Engineer.
 ### 🛠️ Tech Stack & Tools
 <p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,py,git,github,vscode,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,git,github,vscode,)](https://skillicons.dev)
 
 
 </p>
