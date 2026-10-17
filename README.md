@@ -36,9 +36,10 @@ I learn by building, and I'm working toward my first software engineering role a
 | --- | --- |
 | Frontend | HTML, CSS, JavaScript (React next) |
 | Backend | Python (FastAPI/Django next) |
-<!-- | Data | SQLite (PostgreSQL next) |-->
 | Tooling | Git, GitHub, VS Code |
 
+
+<!-- | Data | SQLite (PostgreSQL next) |-->
 ---
 
 ## Projects
