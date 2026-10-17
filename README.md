@@ -1,127 +1,88 @@
-<!--## Hi there 👋
-
-
-**manthanhhabwani/manthanhhabwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning 
-<!--- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...-->
-<h1 align="center">Hi 👋, I'm Manthan Habwani</h1>
-<h3 align="center">Aspiring Software Engineer | MCA Student | Web Developer</h3>
+<h1 align="center">Manthan Habwani</h1>
+<h3 align="center">Aspiring Software Engineer · MCA Student · Full-Stack Developer</h3>
 
 <p align="center">
-I enjoy building software, solving problems, and continuously learning new technologies.
-Currently focused on becoming a Full-Stack Software Engineer.
+BCA graduate (Sant Gadge Baba Amravati University), now pursuing an MCA at Savitribai Phule Pune University.<br/>
+I learn by building, and I'm working toward my first software engineering role at a product company.
+</p>
+
+<p align="center">
+<a href="https://manthanhhabwani.github.io/portfolio-website/">Portfolio</a> ·
+<a href="https://www.linkedin.com/in/manthanhabwani">LinkedIn</a> ·
+<a href="mailto:manthanhabwani17@gmail.com">Email</a>
 </p>
 
 ---
 
-## 🚀 About Me
+## About
 
-- 🎓 BCA Graduate from Sant Gadge Baba Amravati University
-- 🎯 Preparing for Software Engineering roles
-- 🌱 Currently learning **JavaScript, Data Structures & Algorithms**
-- 💻 Building web projects to strengthen my development skills
-- 📚 Goal: Become a Software Engineer at a top product company
-- ⚡ Fun fact: I enjoy turning ideas into real projects.
+- 🎓 BCA graduate (2026), enrolled in MCA at Savitribai Phule Pune University
+- 💻 Building full-stack skills: JavaScript on the frontend, Python on the backend
+- 🧠 Practicing Data Structures & Algorithms regularly
+- 🤖 Experience building automation and AI-powered tools (see ARIA below)
+- 🎯 Looking for: software engineering internships and entry-level roles
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## Tech Stack
+
 <p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,git,github,vscode,)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,nodejs,sqlite,git,github,vscode)](https://skillicons.dev)
 
 </p>
 
+| Area | Tools |
+| --- | --- |
+| Frontend | HTML, CSS, JavaScript (React next) |
+| Backend | Python (FastAPI/Django next), Node.js, TypeScript |
+| Data | SQLite (PostgreSQL next) |
+| Tooling | Git, GitHub, VS Code |
+
 ---
 
-## 📚 Currently Learning
+## Projects
 
-- JavaScript (Advanced)
+### 📝 [InstaScribble](https://github.com/manthanhhabwani/InstaScribble)
+A notes application built in vanilla JavaScript, covering DOM manipulation, event handling, full CRUD operations, and persistence with local storage.
+**Tech:** HTML, CSS, JavaScript · *In progress*
+
+### 🤖 ARIA — Personal AI Life-Admin Agent
+An AI agent that helps manage everyday admin tasks, integrating with Google services and scheduling recurring jobs.
+**Tech:** Node.js, TypeScript, Claude API, SQLite, Google APIs, node-cron
+
+### 🌐 [Portfolio Website](https://manthanhhabwani.github.io/portfolio-website/)
+A responsive personal site showcasing my projects, skills, and certifications, deployed with GitHub Pages.
+**Tech:** HTML, CSS, JavaScript, Git, GitHub Pages
+
+---
+
+## Currently Learning
+
+- JavaScript (advanced concepts, async, DOM)
 - Data Structures & Algorithms
-- Git & GitHub
-- Responsive Web Design
+- React
+- Python backend development (REST APIs, databases, authentication)
 
 ---
 
-## 🚧 Current Project
+## 2026 Goals
 
-### 📝 InstaScribble
-
-A JavaScript-based notes application I'm building to strengthen my understanding of DOM manipulation, events, CRUD operations, local storage, and frontend development.
-
-**Tech Used**
-
-- HTML
-- CSS
-- JavaScript
-- Git
-- GitHub
+- [ ] Ship a deployed full-stack project (React + Python + database)
+- [ ] Solve 150+ DSA problems
+- [ ] Contribute to an open-source project
+- [ ] Earn a software engineering internship
 
 ---
 
-## 🎯 2026 Goals
+## Certifications
 
--  Build 5+ quality projects
--  Master JavaScript
--  Learn React
--  Learn Node.js
--  Strengthen DSA
--  Contribute consistently on GitHub
--  Crack Software Engineering Internship
-
----
-
-<!--## 📊 GitHub Stats
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=manthanhhabwani&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=manthanhhabwani&layout=compact&theme=github_dark&hide_border=true" />
--->
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=manthanhhabwani&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/manthanhhabwani">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/manthan-habwani">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://manthanhhabwani.github.io/portfolio-website/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser"/>
-</a>
-
-</p>
+- Google AI Essentials
+- Google Prompting Essentials
+- Commonwealth Bank: Introduction to Software Engineering (Job Simulation)
 
 ---
 
 <p align="center">
-
-⭐ Thanks for visiting my profile! ⭐
-
-*"Every commit is one step closer to becoming a better engineer."*
-
+<i>Open to connecting with developers, mentors, and recruiters. Feel free to reach out.</i>
 </p>
