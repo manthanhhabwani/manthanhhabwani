@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 <h1 align="center">Hi 👋, I'm Manthan Habwani</h1>
-<h3 align="center">Aspiring Software Engineer | MCA Aspirant | Web Developer</h3>
+<h3 align="center">Aspiring Software Engineer | MCA Student | Web Developer</h3>
 
 <p align="center">
 I enjoy building software, solving problems, and continuously learning new technologies.
@@ -26,7 +26,7 @@ Currently focused on becoming a Full-Stack Software Engineer.
 ## 🚀 About Me
 
 - 🎓 BCA Graduate from Sant Gadge Baba Amravati University
-- 🎯 Preparing for MCA and Software Engineering roles
+- 🎯 Preparing for Software Engineering roles
 - 🌱 Currently learning **JavaScript, Data Structures & Algorithms**
 - 💻 Building web projects to strengthen my development skills
 - 📚 Goal: Become a Software Engineer at a top product company
