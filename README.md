@@ -28,15 +28,15 @@ I learn by building, and I'm working toward my first software engineering role a
 
 <p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,nodejs,sqlite,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,git,github,vscode)](https://skillicons.dev)
 
 </p>
 
 | Area | Tools |
 | --- | --- |
 | Frontend | HTML, CSS, JavaScript (React next) |
-| Backend | Python (FastAPI/Django next), Node.js, TypeScript |
-| Data | SQLite (PostgreSQL next) |
+| Backend | Python (FastAPI/Django next) |
+<!-- | Data | SQLite (PostgreSQL next) |-->
 | Tooling | Git, GitHub, VS Code |
 
 ---
@@ -47,10 +47,10 @@ I learn by building, and I'm working toward my first software engineering role a
 A notes application built in vanilla JavaScript, covering DOM manipulation, event handling, full CRUD operations, and persistence with local storage.
 **Tech:** HTML, CSS, JavaScript · *In progress*
 
-### 🤖 ARIA — Personal AI Life-Admin Agent
+<!-- ### 🤖 ARIA — Personal AI Life-Admin Agent
 An AI agent that helps manage everyday admin tasks, integrating with Google services and scheduling recurring jobs.
 **Tech:** Node.js, TypeScript, Claude API, SQLite, Google APIs, node-cron
-
+-->
 ### 🌐 [Portfolio Website](https://manthanhhabwani.github.io/portfolio-website/)
 A responsive personal site showcasing my projects, skills, and certifications, deployed with GitHub Pages.
 **Tech:** HTML, CSS, JavaScript, Git, GitHub Pages
